@@ -2,3 +2,5 @@ opencv-contrib-python
 dlib
 cmake
 matplotlib
+scikit-learn
+seaborn
